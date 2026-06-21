@@ -1,0 +1,7 @@
+Name              | Age | Role      | Salary
+------------------------------------------------
+John Doe          | 25  | Developer | 120000
+Mary Smith        | 30  | Designer  | 95000
+Emmanuel Dairo    | 22  | Intern    | 50000
+Aisha Bello       | 28  | Manager   | 150000
+David King        | 35  | Engineer  | 180000

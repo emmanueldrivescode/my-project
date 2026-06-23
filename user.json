@@ -1,0 +1,44 @@
+{
+    "name": "Emmanuel Dairo",
+    "age": 21,
+    "is_student": true,
+    "cgpa": null,
+    
+    "skills": ["Python", "HTML", "CSS", "Git"],
+
+    "education": {
+        "school": "University of Port Harcourt",
+        "level": 200,
+        "department": "Computer Science"
+    },
+
+    "scores": {
+        "math": 85,
+        "english": 78,
+        "programming": 92
+    },
+
+    "projects": [
+        {
+            "title": "Student Registration System",
+            "language": "C#",
+            "year": 2025
+        },
+        {
+            "title": "Portfolio Website",
+            "language": "HTML/CSS/JS",
+            "year": 2026
+        }
+    ],
+
+    "login_attempts": 3,
+    "balance": 1500.75,
+
+    "tags": ["developer", "student", "backend"],
+
+    "address": {
+        "city": "Port Harcourt",
+        "state": "Rivers",
+        "country": "Nigeria"
+    }
+}
